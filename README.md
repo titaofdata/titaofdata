@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/titaofdata/titaofdata/main/github.png)
+
 <p align="center">
 <a href="https://stephenajulu.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/link-solid.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/titaofdata/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
