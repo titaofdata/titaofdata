@@ -1,6 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
-![](https://raw.githubusercontent.com/titaofdata/titaofdata/main/github.png)
+## You can find me on these corners of the web.
+
 
 <p align="center">
 <a href="https://stephenajulu.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/link-solid.svg"></a>&nbsp;&nbsp;
@@ -10,7 +11,7 @@
 <a href="https://speakerdeck.com/titaofdata/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/youtube-square-brands.svg"></a>&nbsp;&nbsp;
 </p>
 
-
+![](https://raw.githubusercontent.com/titaofdata/titaofdata/main/github.png)
 
 <!--
 **titaofdata/titaofdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
