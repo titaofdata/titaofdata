@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## You can find me on these corners of the web.
+## You can find me on these corners of the web:
 
 
 <p align="center">
