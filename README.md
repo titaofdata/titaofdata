@@ -11,7 +11,7 @@
 <a href="https://speakerdeck.com/titaofdata/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/youtube-square-brands.svg"></a>&nbsp;&nbsp;
 </p>
 
-![](https://raw.githubusercontent.com/titaofdata/titaofdata/main/github.png)
+![](https://raw.githubusercontent.com/titaofdata/titaofdata/main/tita.png)
 
 <!--
 **titaofdata/titaofdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
