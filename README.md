@@ -7,7 +7,7 @@
 <a href="https://titaofdata.github.io/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/link-solid.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/titaofdata/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
 <a href="mailto:titaofdata@gmail.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@thetitaofdata"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/medium-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@titaofdata"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/medium-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://speakerdeck.com/titaofdata/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/youtube-square-brands.svg"></a>&nbsp;&nbsp;
 </p>
 
