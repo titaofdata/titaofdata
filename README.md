@@ -13,6 +13,11 @@
 
 ![](https://raw.githubusercontent.com/titaofdata/titaofdata/main/tita.png)
 
+- 🔭 I’m currently working on reducing time-to-insights from 48 hours to 5 minutes for a multi-million dollar e-commerce company as a Product Lead (Data & Analytics)
+- 👯 I’m looking to collaborate on Agri tech, product management, tech for social good and getting more underprivileged Filipina in tech & data
+- 🤔 I’m looking for help with ERP systems (because the one we're using now has been the data team's source of headache for 12 months and counting)
+- 💬 Ask me about startups, AI, abnormal psychology (my mom and dad were both AB psych college professors so my early memories as a child is spending my afternoons reading the big book of ab psych we have at home), law, population genetics, hydroponics, woodworking, raising poultry, puppies and a grumpy old cat.
+
 <!--
 **titaofdata/titaofdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
