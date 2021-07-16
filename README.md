@@ -1,4 +1,4 @@
-# Hi there 👋
+# Kumusta 👋
 
 ## You can find me on these corners of the web:
 
